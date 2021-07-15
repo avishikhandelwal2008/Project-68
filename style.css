@@ -1,0 +1,23 @@
+.contact_1 h5
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+    width: max-content;
+}
+ 
+input
+{
+    background: grey
+}
+
+#marqueeStyle {
+    background-color: rgb(255, 0, 0);
+    color: black;
+}
+
+#img1 {
+    width: max-content;
+}
